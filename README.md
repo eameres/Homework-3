@@ -1,5 +1,5 @@
 # ga2020-homework3
-Third homework for RPI Game Architecture 2020
+Third homework for RPI Game Architecture 2021
 
 In this assignment you will draw a simple textured cube. The raw data
 for the vertex positions in model space, the texture coordinates, and 
